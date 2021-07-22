@@ -1,0 +1,1 @@
+{"applicationIdentifier":"{{appid}}","filterConfig":{"pattern":"www.dynatrace.com","applicationMatchType":"CONTAINS","applicationMatchTarget":"URL"}}

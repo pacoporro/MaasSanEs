@@ -1,0 +1,1 @@
+{"applicationIdentifier":"{{appid}}","filterConfig":{"pattern":"www.pre.test.com","applicationMatchType":"CONTAINS","applicationMatchTarget":"URL"}}

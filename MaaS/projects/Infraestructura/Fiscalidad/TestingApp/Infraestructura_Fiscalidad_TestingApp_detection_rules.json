@@ -1,0 +1,1 @@
+{"applicationIdentifier":"{{appid}}","filterConfig":{"pattern":"www.testing.es","applicationMatchType":"CONTAINS","applicationMatchTarget":"URL"}}
